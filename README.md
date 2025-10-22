@@ -15,7 +15,7 @@ I'm a **Senior Software Engineer** with over **10 years** of experience designin
 ### Open to Part-Time Opportunities
 
 I'm currently **available for part-time design system work**, including:
-- Contributing to existing design systems or establishing new foundations
+- Contributing to existing design systems or create a new ones
 - Improving tooling, automation, and developer experience
 
 *If your team could use an extra set of hands with design system development, I'd love to connect!*
@@ -49,7 +49,6 @@ I love collaborating on design system projects and enjoy mentoring other develop
 
 [![Website](https://img.shields.io/badge/Website-ryanmenner.com-blue?style=for-the-badge&logo=globe)](https://ryanmenner.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanmenner)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rmenner)
 
 ### GitHub Stats
 
