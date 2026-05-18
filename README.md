@@ -1,6 +1,8 @@
+![DESIGN & CODE](./banner.svg)
+
 # Greetings, I'm Ryan! 👋
 
-Ten years on the bridge between design and engineering. Currently shipping component and platform work on [Auro](https://auro.alaskaair.com), Alaska Airlines' design system. Previously on [Campfire](https://enterprise.campfire.design) at Morgan Stanley.
+Ten years on the bridge between design and engineering. Currently shipping component and platform work on [Auro](https://auro.alaskaair.com), Alaska Airlines' design system. Previously on Campfire at Morgan Stanley.
 
 ### About Me
 
@@ -38,11 +40,11 @@ If you're scaling a design system, fixing one that isn't working, or hiring a fr
 
 ### GitHub Stats
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmenner&show_icons=true&theme=dark&hide_border=true)
+<!--STATS:START-->
+![GitHub contribution stats](./contribution-graph.svg)
 
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmenner&layout=compact&theme=dark&hide_border=true)
+_Updated 2026-05-18_
+<!--STATS:END-->
 
 ---
 
