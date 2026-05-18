@@ -1,25 +1,12 @@
-![Design. Prototype. Build.](./banner.png)
-
 # Greetings, I'm Ryan! 👋
 
-As a designer, developer, and individual I strive to do everything with diligence, integrity, and fervor. Always looking for a way to create work that is both useful and beautiful.
+Ten years on the bridge between design and engineering. Currently shipping component and platform work on [Auro](https://auro.alaskaair.com), Alaska Airlines' design system. Previously on [Campfire](https://enterprise.campfire.design) at Morgan Stanley.
 
 ### About Me
 
-I'm a **Senior Software Engineer** with over **10 years** of experience designing responsive web experiences, specializing in **design systems** and accessible component libraries.
-
 - **Currently working on:** [Auro Design System](https://auro.alaskaair.com) at Alaska Airlines
-- **Specializing in:** Design systems, web components, and developer experience
+- **Before that:** Campfire Design System (Enterprise track) at Morgan Stanley
 - **Tech Stack:** Web Components, Lit, Design Tokens, Storybook, GitHub Actions
-
-### Open to Part-Time Opportunities
-
-I'm currently **available for part-time design system work**, including:
-- Contributing to existing design systems or create a new ones
-- Improving tooling, automation, and developer experience
-
-*If your team could use an extra set of hands with design system development, I'd love to connect!*
-
 
 ### Technologies & Tools
 
@@ -37,7 +24,6 @@ I'm currently **available for part-time design system work**, including:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -45,7 +31,7 @@ I'm currently **available for part-time design system work**, including:
 
 ### Let's Connect
 
-I love collaborating on design system projects and enjoy mentoring other developers. Whether you need help with an existing system, want to create a new project, or are looking for part-time design system expertise, I'd be happy to chat!
+If you're scaling a design system, fixing one that isn't working, or hiring a frontend engineer who can stay with hard problems, reach out.
 
 [![Website](https://img.shields.io/badge/Website-ryanmenner.com-blue?style=for-the-badge&logo=globe)](https://ryanmenner.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanmenner)
@@ -60,4 +46,4 @@ I love collaborating on design system projects and enjoy mentoring other develop
 
 ---
 
-⚡ **Fun fact:** When I'm not coding, you can find me working on home automation projects, managing home lab infrastructure, or building and flying FPV drones!
+Off the clock: home automation, home lab infrastructure, FPV drones I build and fly.
